@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986152881177",
+    "project_id": "foodrulez-ba3f4",
+    "storage_bucket": "foodrulez-ba3f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986152881177:android:5660229f1f2f2249a72e88",
+        "android_client_info": {
+          "package_name": "com.foodrulez.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986152881177-7jdestuekh6p5a1jk8fm4v9fuc2vmsnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5nCcAj5K3x35TJ1kvWrHWVljR8bDasPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986152881177-7jdestuekh6p5a1jk8fm4v9fuc2vmsnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
